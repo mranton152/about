@@ -1,2 +1,12 @@
-# about
-My site portfolio
+# Портфолио — Антон Загитов
+
+Опубликованная статическая сборка персонального портфолио.
+
+🔗 **Сайт:** https://mranton152.github.io/about/
+
+Собрано из React + Vite. Исходный код — в репозитории
+[`portfolio`](https://github.com/mranton152/portfolio).
+
+> Файлы в этом репозитории — готовая сборка (`dist`), которую
+> GitHub Pages раздаёт из ветки `main` (корень). Файл `.nojekyll`
+> отключает обработку Jekyll, `404.html` — фолбэк для SPA-маршрутов.
